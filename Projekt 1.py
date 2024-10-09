@@ -9,4 +9,7 @@ input()
 print ("Great!")
 
 #leftAlr+x = #
-#/b zalomeni radku
+#/n zalomeni radku
+
+# int = cele cislo
+#float = desetine cislo
