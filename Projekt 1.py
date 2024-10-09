@@ -7,3 +7,6 @@ print(greeting)
 print ("Do you like neco?")
 input()
 print ("Great!")
+
+#leftAlr+x = #
+#/b zalomeni radku
